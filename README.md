@@ -80,7 +80,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][pca]
+<!-- ![Product Name Screen Shot][pca] -->
+<img src="images/pca_occupation.png">
+
 
 This project is oriented around the skills requirement aspect of job postings on the online recruitment platforms. 
 
