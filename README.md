@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][pca_occupation.png]
+![Product Name Screen Shot][images/pca_occupation.png]
 
 This project is oriented around the skills requirement aspect of job postings on the online recruitment platforms. 
 
@@ -324,12 +324,12 @@ The pipeline utilized the functionalities of open-source library Skills-ML to pe
 
 The main part of the code is modified into the following notebooks with comments on directions to use, with index representing order to execute. The folder main folder contains three subfolders, code, data and output, each functioning as a referencing path to store data file as well as output charts. The file 04a performs a basic a basic demonstration on addressing the research problem addressed in the vignette 1 in the working paper. In addition, in the requirement folder contains the exported conda environment file.
 
-![Product Name Screen Shot][asset_list.png]
+![Product Name Screen Shot][images/asset_list.png]
 
 <!-- ROADMAP -->
 ## Schematics
 
-![Product Name Screen Shot][schematics.jpg]
+![Product Name Screen Shot][images/schematics.jpg]
 
 <!-- CONTRIBUTING -->
 ## Contributing
