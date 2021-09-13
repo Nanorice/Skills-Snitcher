@@ -324,12 +324,12 @@ The pipeline utilized the functionalities of open-source library Skills-ML to pe
 
 The main part of the code is modified into the following notebooks with comments on directions to use, with index representing order to execute. The folder main folder contains three subfolders, code, data and output, each functioning as a referencing path to store data file as well as output charts. The file 04a performs a basic a basic demonstration on addressing the research problem addressed in the vignette 1 in the working paper. In addition, in the requirement folder contains the exported conda environment file.
 
-![asset_list][asset_list]
+![asset list][asset_list]
 
 <!-- ROADMAP -->
 ## Schematics
 
-![schematics][schematics]
+![schematics graph][schematics]
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -366,7 +366,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-url]: https://github.com/Nanorice/Skills-Snitcher/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/pca.png
 [asset_list]: images/asset_list.png
 [schematics]: images/schematics.jpg
 [pca]: images/pca_occupation.png
