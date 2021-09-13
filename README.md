@@ -329,7 +329,7 @@ The main part of the code is modified into the following notebooks with comments
 <!-- ROADMAP -->
 ## Schematics
 
-![schematics][truss_screenshots]
+![schematics][schematics]
 
 <!-- CONTRIBUTING -->
 ## Contributing
